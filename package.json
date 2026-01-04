@@ -1,0 +1,15 @@
+{
+  "name": "martin--gofile",
+  "version": "1.0.0",
+  "description": "Selfbot Discord pour upload automatique vers GoFile",
+  "main": "discordtogofile.js",
+  "scripts": {
+    "start": "node discordtogofile.js"
+  },
+  "dependencies": {
+    "axios": "^1.13.2",
+    "debug": "^4.4.3",
+    "discord.js-selfbot-v13": "^3.7.1",
+    "form-data": "^4.0.5"
+  }
+}
