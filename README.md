@@ -37,4 +37,5 @@
 
 ### <a id="authors"></a>🕵️‍♂️ 〢 Authors
 - [Martin Dépanne](https://github.com/martindepanne)
+- L'inspiration vient de : [RageUI-dev](https://github.com/RageUI-dev)
 ---
