@@ -14,7 +14,7 @@
 ## <a id="setup"></a> 📁 〢 Setting up
 
 - [Node.js](https://nodejs.org/fr/download/current) (22.12+)
-- [Fichiers](https://github.com/martindepanne/MRT-Shop/archive/refs/heads/main.zip)
+- [Fichiers](https://github.com/martindepanne/MRT-Gofile-Discord/archive/refs/heads/main.zip)
 - [Token](https://discord.com/developers/applications)
 
 ## <a id="install"></a> 💻 〢 Install
